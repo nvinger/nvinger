@@ -1,8 +1,8 @@
 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c#&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvinger&count_private=true&theme=radical&show_icons=true)
