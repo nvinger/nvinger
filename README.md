@@ -1,6 +1,13 @@
-### Hi there 👋
+
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=./assets/python.svg&logoColor=white&color=2bbc8a)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nvinger&count_private=true&theme=radical&show_icons=true)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvinger)](https://github.com/nvinger/github-readme-stats) -->
 
 <!--
 **nvinger/nvinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
